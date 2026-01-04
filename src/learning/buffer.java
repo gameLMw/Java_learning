@@ -9,7 +9,6 @@ public class buffer {
         System.out.println(a);
         String b = sc.next();
         System.out.println(b);
+        System.out.println("------------------");
     }
-
-
 }
